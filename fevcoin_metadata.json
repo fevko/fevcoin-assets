@@ -3,13 +3,13 @@
   "symbol": "FEVCO",
   "description": "Fevcoin spun out of the Fibonacci Nebula to drop stickers, stir chaos, and lead the spiral. $FEVCO runs on memes, lore, and the wild charisma of FEVKO.",
   "seller_fee_basis_points": 0,
-  "image": "https://your-link-will-go-here/FEVCO_logo_256x256.png",
+  "image": "https://raw.githubusercontent.com/fevko/fevcoin-assets/main/FEVCO_logo_256x256.png",
   "external_url": "https://t.me/fvkspiral",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://your-link-will-go-here/FEVCO_logo_256x256.png",
+        "uri": "https://raw.githubusercontent.com/fevko/fevcoin-assets/main/FEVCO_logo_256x256.png",
         "type": "image/png"
       }
     ],
